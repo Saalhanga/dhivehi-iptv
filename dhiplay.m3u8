@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="TVM" tvg-logo="" group-title="Dhivehi TV",TVM
-https://your-stream-url/tvm/index.m3u8
-
-#EXTINF:-1 tvg-name="Raajje TV" tvg-logo="" group-title="Dhivehi TV",Raajje TV
-https://your-stream-url/raajje/index.m3u8
-
-#EXTINF:-1 tvg-name="Sun FM" tvg-logo="" group-title="Radio",Sun FM
-https://your-stream-url/sunfm/stream.m3u8
-```
+#EXTINF:-1 tvg-id="DhaarisTV.mv" tvg-name="Dhaaris TV" tvg-logo="https://8upload.com/image/67da2402561e8/15-dhaaristv.png" group-title="Dhivehi",Dhaaris TV FHD
+https://1a-1791.com/live/4gf18j5s/live-hls/ptqd-rzhj/chunklist_i1_DVR.m3u8
 
