@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DhaarisTV.mv" tvg-name="Dhaaris TV" tvg-logo="https://8upload.com/image/67da2402561e8/15-dhaaristv.png" group-title="Dhivehi",Dhaaris TV
 https://1a-1791.com/live/4gf18j5s/live-hls/ptqd-rzhj/chunklist_360p_i1_DVR.m3u8
+
+
+#EXTINF:-1 tvg-id="DhaarisTV.mv" tvg-name="Dhaaris TV" tvg-logo="https://8upload.com/image/67da2402561e8/15-dhaaristv.png" group-title="Dhivehi",Dhaaris TV
+https://1a-1791.com/live/4gf18j5s/live-hls/ptqd-rzhj/chunklist_1080p_i1_DVR.m3u8
