@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dhivehi IPTV</title>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    body { background: #111; color: white; font-family: sans-serif; text-align: center; }
+    video { width: 80%; max-width: 800px; margin: 20px auto; display: block; }
+    button { margin: 5px; padding: 10px 20px; background: #e63946; color: white; border: none; border-radius: 5px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <h1>📺 Dhivehi IPTV</h1>
+  <video id="video" controls></video>
+
+  <div>
+    <button onclick="play('https://YOUR_STREAM_URL/tvm.m3u8')">TVM</button>
+    <button onclick="play('https://YOUR_STREAM_URL/raajje.m3u8')">Raajje TV</button>
+    <button onclick="play('https://YOUR_STREAM_URL/sunfm.m3u8')">Sun FM</button>
+  </div>
+
+  <script>
+    function play(url) {
+      const video = document.getElementById('video');
+      if (Hls.isSupported()) {
+        const hls = new Hls();
+        hls.loadSource(url);
+        hls.attachMedia(video);
+        video.play();
+      }
+    }
+  </script>
+</body>
+</html>
