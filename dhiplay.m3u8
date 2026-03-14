@@ -17,9 +17,6 @@ https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
 #EXTINF:-1 tvg-id="SSTV.mv@SD" tvg-name="SSTV" tvg-logo="" group-title="Dhivehi",SSTV SD
 https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
 
-#EXTINF:-1 tvg-id="VTV.mv@SD" tvg-name="VTV" tvg-logo="" group-title="Dhivehi",VTV SD (1080p) [Not 24/7]
-https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
-
 #EXTINF:-1 tvg-id="VTV.mv@SD" tvg-name="VTV" tvg-logo="" group-title="Dhivehi",VTV 
 https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
 
