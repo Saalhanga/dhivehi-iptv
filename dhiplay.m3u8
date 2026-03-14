@@ -2,6 +2,27 @@
 #EXTINF:-1 tvg-id="DhaarisTV.mv" tvg-name="Dhaaris TV" tvg-logo="https://8upload.com/image/67da2402561e8/15-dhaaristv.png" group-title="Dhivehi",Dhaaris TV SD
 https://1a-1791.com/live/4gf18j5s/live-hls/ptqd-rzhj/chunklist_360p_i1_DVR.m3u8
 
-
 #EXTINF:-1 tvg-id="DhaarisTV.mv" tvg-name="Dhaaris TV" tvg-logo="https://8upload.com/image/67da2402561e8/15-dhaaristv.png" group-title="Dhivehi",Dhaaris TV HD
 https://1a-1791.com/live/4gf18j5s/live-hls/ptqd-rzhj/chunklist_i1_DVR.m3u8
+
+#EXTINF:-1 tvg-id="MMTV.mv@SD" tvg-name="MMTV" tvg-logo="" group-title="Dhivehi",MMTV SD
+https://sendlive.online/hls/mmtv.m3u8
+
+#EXTINF:-1 tvg-id="NTV.mv@SD" tvg-name="NTV" tvg-logo="" group-title="Dhivehi",NTV SD
+https://sstv.ssplay.mv/hls/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
+
+#EXTINF:-1 tvg-id="RaajjeTV.mv@SD" tvg-name="Raajje TV" tvg-logo="" group-title="Dhivehi",Raajje TV SD
+https://raajjetv.yarr-myn.workers.dev/RaajjeTv.m3u8
+
+#EXTINF:-1 tvg-id="SSTV.mv@SD" tvg-name="SSTV" tvg-logo="" group-title="Dhivehi",SSTV SD
+https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
+
+#EXTINF:-1 tvg-id="VTV.mv@SD" tvg-name="VTV" tvg-logo="" group-title="Dhivehi",VTV SD (1080p) [Not 24/7]
+https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTV.mv@SD" tvg-name="VTV" tvg-logo="" group-title="Dhivehi",VTV 
+https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
+
+
+
+
