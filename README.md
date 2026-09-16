@@ -41,6 +41,4 @@ Open `players/hls-player.html` in a browser to test individual streams with HLS.
 - Channels and URLs may change over time. Please open an issue or PR with updates.
 - Keep the playlist minimal and curated. This is not intended to be a comprehensive global IPTV list.
 
-## License
 
-MIT — see [LICENSE](LICENSE).
