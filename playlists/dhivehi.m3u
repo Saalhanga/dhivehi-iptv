@@ -29,3 +29,6 @@ https://vtvstream.vnews.mv/vtvlive/vmedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="YES.mv@SD" tvg-logo="https://i.imgur.com/HARIGQl.png" group-title="News",YES
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="DhaarisTV.mv@SD" tvg-logo="" group-title="General",Dhaaris TV
+https://hugh.cdn.rumble.cloud/live/b9exd20e/live-hls/dh8i-wz3j/chunklist_i1_DVR.m3u8
