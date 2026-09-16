@@ -29,6 +29,3 @@ https://hugh.cdn.rumble.cloud/live/b9exd20e/live-hls/dh8i-wz3j/chunklist_i1_DVR.
 
 #EXTINF:-1 tvg-id="RaajjeTV.mv@SD" tvg-logo="" group-title="General",Raajje TV
 https://stream.raajje.mv/live/stream_c95ravtr7cyk/video1_stream.m3u8
-
-#EXTINF:-1 tvg-id="RaajjeTV.mv@SD" tvg-logo="" group-title="General",Raajje TV Audio
-https://stream.raajje.mv/live/stream_c95ravtr7cyk/audio2_stream.m3u8
