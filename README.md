@@ -4,7 +4,7 @@ A curated, shareable IPTV playlist for Maldivian TV channels.
 
 ## Playlist
 
-`playlists/dhivehi.m3u` contains 10 channels, including:
+`playlists/dhivehi.m3u` contains 11 entries, including:
 
 | Channel | Group | Resolution |
 |---------|-------|------------|
@@ -18,6 +18,7 @@ A curated, shareable IPTV playlist for Maldivian TV channels.
 | YES | News | - |
 | Dhaaris TV | General | - |
 | Raajje TV | General | - |
+| Raajje TV Audio | General | - |
 
 ## How to use
 
@@ -31,6 +32,7 @@ Import `playlists/dhivehi.m3u` into your preferred IPTV player:
 ## Notes
 
 - Stream URLs may change without notice. If a channel fails, please open an issue with the updated URL.
+- `Raajje TV Audio` is provided separately because the video stream may lack audio in some players.
 
 ## Testing locally
 
