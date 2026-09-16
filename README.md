@@ -4,7 +4,7 @@ A curated, shareable IPTV playlist for Maldivian TV channels.
 
 ## Playlist
 
-`playlists/dhivehi.m3u` contains 11 channels, including:
+`playlists/dhivehi.m3u` contains 10 channels, including:
 
 | Channel | Group | Resolution |
 |---------|-------|------------|
@@ -12,7 +12,6 @@ A curated, shareable IPTV playlist for Maldivian TV channels.
 | Maldives TV | Travel | 720p |
 | MMTV | General | 1080p |
 | NTV | General | - |
-| PSM News | News | - |
 | SSTV | General | 1080p |
 | TV Maldives | General | - |
 | VTV | News | 1080p |
